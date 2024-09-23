@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.util.List;
 import java.util.Optional;
 @SpringBootTest
-class Chapter05ApplicationTests {
+class Demo5ApplicationTests {
     @Autowired
     private BookRepository bookRepository;
     private  void booksInfo(){
